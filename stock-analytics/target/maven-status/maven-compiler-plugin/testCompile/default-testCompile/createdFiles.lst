@@ -1,0 +1,4 @@
+io\endeavour\stocks\service\CrudServiceTest.class
+io\endeavour\stocks\service\StockAnalyticsServiceTest.class
+io\endeavour\stocks\StockAnalyticsApplicationTests.class
+io\endeavour\stocks\controller\CrudControllerTest.class

@@ -1,0 +1,19 @@
+{
+  "firstName": "Jane",
+  "lastName": "Doe K",
+  "dob": "1969-02-03",
+  "addresses": [
+    {
+      "addressType": "home",
+      "line1": "16 Center St",
+      "line2": "Bangor, ME",
+      "zipCode": "04401"
+    },
+    {
+      "addressType": "work",
+      "line1": "25 State St",
+      "line2": "Bangor, ME",
+      "zipCode": "04401"
+    }
+  ]
+}
